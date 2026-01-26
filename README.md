@@ -7,7 +7,7 @@
 
 ## 💫 About Me
 - 😄 Pronouns: He/His  
-- 🔭 I’m currently building **Pocket FM**  
+- 🔭 I’m currently building **Spotiy**  
 - 🌱 Learning more about **AI and LLMs**  
 - 👯 Looking to collaborate on **YouTube**  
 - 🤔 Seeking help with **side projects**  

@@ -1,67 +1,88 @@
 # 👋 Hola, I'm Pawan Kumar
 ![Waving Hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
-**bEinG-RudY**  
+**Flutter Developer | Java | Mobile App Development**  
 
 ---
 
 ## 💫 About Me
-- 😄 Pronouns: He/His  
-- 🔭 I’m currently building **Spotiy**  
-- 🌱 Learning more about **AI and LLMs**  
-- 👯 Looking to collaborate on **YouTube**  
-- 🤔 Seeking help with **side projects**  
-- 💬 Ask me about **Flutter, mobile dev, or tech in general**  
-- ⚡ Fun fact: I spend almost **10 hours listening to songs daily**  
+- 😄 Pronouns: He / Him  
+- 📱 Flutter developer focused on **clean UI & state management**  
+- 🧠 Currently building projects using **BLoC, Provider, Firebase & Hive**  
+- 💻 Strong foundation in **Java & Object-Oriented Programming**  
+- 🚀 Improving skills through **real-world mobile & desktop apps**  
+- 💬 Ask me about **Flutter, Java, or app development basics**  
+- ⚡ Fun fact: I enjoy building apps that feel simple but work smart  
 
 ---
 
 ## 🌐 Socials
-[Instagram](#) | [LinkedIn](#) | [Medium](#) | [Reddit](#) | [YouTube](#) | [Twitter](#)  
+[LinkedIn](https://www.linkedin.com/in/pawan-289006292) |  
+[GitHub](https://github.com/bEinG-RudY)
 
 ---
 
 ## 💻 Tech Stack
-**Languages:** C#, Dart, Kotlin, Java, JavaScript, Solidity, Swift, TypeScript, Python  
-**Frameworks & Libraries:** Flutter, Django, DjangoREST, NodeJS, React, Vue.js, Vuetify, Xamarin, TailwindCSS, Redux, FastAPI, Express.js, Gatsby  
-**Cloud & DevOps:** AWS, Firebase, Vercel, Netlify, Heroku, Google Cloud, Docker, Terraform  
-**Databases:** MongoDB, MySQL, Postgres, SQLite, Realm  
-**Design & Tools:** Figma, Canva, Affinity Designer, Postman, Gradle, Notion, Swagger  
+
+### 🧠 Languages
+- Java  
+- Dart  
+
+### 📱 Frameworks & Libraries
+- Flutter  
+- Java Swing  
+
+### 🛠️ Tools & Platforms
+- Git & GitHub  
+- Firebase  
+- Hive (Local Storage)  
+
+### 📚 Concepts
+- Object-Oriented Programming (OOP)  
+- SDLC & Agile  
+- Basic Data Structures & Algorithms  
 
 ---
 
-## 👨🏻‍💻 My Setup
-**Laptop in use:** *(Add your laptop model)*  
-**Favorite Terminal:** *(Add terminal/shell, e.g., iTerm2, Windows Terminal)*  
+## 📂 Featured Projects
+
+### 🎵 Spotify Clone (Flutter + BLoC)
+- Spotify-inspired UI
+- BLoC state management
+- Clean and scalable architecture  
+🚧 *Work in progress*
 
 ---
 
-## 🛒 Apps on Store
-- [Play Store](#)  
-- [App Store](#)  
+### ✅ ToDo App (Flutter)
+- Task management application
+- Hive for local storage
+- Provider for state management  
 
 ---
 
-## 🎵 Music Apps I Use
-*(Spotify, Apple Music, YouTube Music, etc.)*  
+### 📝 Notepad App (Flutter + Firebase)
+- Firebase Authentication
+- Firestore CRUD operations
+- Secure user-based data handling  
+
+---
+
+### 🎮 Java Games
+- **Flappy Bird Game** – Java Swing, collision logic  
+- **Snake Game** – Game loop & event handling
+---
+
+## 🎓 Education
+🎓 Bachelor of Computer Applications (BCA)  
+Indira Gandhi National Open University (IGNOU)
 
 ---
 
 ## 📈 GitHub Stats
-![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bEinG-RudY&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bEinG-RudY&layout=compact&theme=radical)  
+![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bEinG-RudY&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bEinG-RudY&layout=compact&theme=radical)
 
 ---
 
-## ✍️ Random Dev Quote
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House  
-
----
-
-## 💰 Support Me
-If you like my work, you can support me:  
-[BuyMeACoffee](#) | [PayPal](#) | [Patreon](#)  
-
----
-
-⭐️ Show some ❤️ by starring my repositories!
+⭐️ Thanks for visiting my profile — feel free to explore my repositories!

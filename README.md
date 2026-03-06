@@ -81,7 +81,7 @@ Indira Gandhi National Open University (IGNOU)
 ---
 
 ## 📈 GitHub Stats
-![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bEinG-RudY&show_icons=true&theme=radical&cache_seconds=1800)
+![Pawan's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bEinG-RudY&show_icons=true&theme=radical)
 ![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bEinG-RudY&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bEinG-RudY&layout=compact&theme=radical)
 

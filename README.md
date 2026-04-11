@@ -12,7 +12,7 @@
 - 💻 Strong foundation in **Java & Object-Oriented Programming**  
 - 🚀 Improving skills through **real-world mobile & desktop apps**  
 - 💬 Ask me about **Flutter, Java, or app development basics**  
-- ⚡ Fun fact: I enjoy building apps that feel simple but work smart  
+- ⚡ Fun fact: I enjoy building apps that feel simple but work smart  .
 
 ---
 

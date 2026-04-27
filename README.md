@@ -6,7 +6,6 @@
 ---
 
 
-
 ## 💫 About Me
 - 😄 Pronouns: He / Him  
 - 📱 Flutter developer focused on **clean UI & state management**  

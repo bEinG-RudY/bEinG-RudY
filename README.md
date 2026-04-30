@@ -27,7 +27,8 @@
 
 ### 🧠 Languages
 - Java  
-- Dart  
+- Dart
+- python 
 
 ### 📱 Frameworks & Libraries
 - Flutter  

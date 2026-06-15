@@ -63,7 +63,6 @@
 
 ---
 
-
 ### 📝 Notepad App (Flutter + Firebase)
 - Firebase Authentication.
 - Firestore CRUD operations.
